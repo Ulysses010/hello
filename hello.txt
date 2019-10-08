@@ -1,4 +1,1 @@
-hello, git!
-hi!
-Wow!
-Wonderful!!!!!!!!!!!!!!!!!!
+Hello, Git!
